@@ -1,3 +1,9 @@
+# CUSA Hackathan Project
+* Node.js (NowJS)
+* HTML5 (Canvas)
+
+# Play at http://everlove.us:8086/
+
 # expressjs-boilterplate
 A boilterplace to speed up expressjs development by provide common utilities.
 # Why would I use this?
